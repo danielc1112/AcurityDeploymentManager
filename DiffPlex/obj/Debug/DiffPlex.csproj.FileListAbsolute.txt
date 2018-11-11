@@ -1,0 +1,6 @@
+C:\Users\dcamp\source\repos\SMAReportCleaner\DiffPlex\obj\Debug\DiffPlex.csprojResolveAssemblyReference.cache
+C:\Users\dcamp\source\repos\SMAReportCleaner\DiffPlex\obj\Debug\DiffPlex.csproj.CoreCompileInputs.cache
+C:\Users\dcamp\source\repos\SMAReportCleaner\DiffPlex\bin\Debug\DiffPlex.dll
+C:\Users\dcamp\source\repos\SMAReportCleaner\DiffPlex\bin\Debug\DiffPlex.pdb
+C:\Users\dcamp\source\repos\SMAReportCleaner\DiffPlex\obj\Debug\DiffPlex.dll
+C:\Users\dcamp\source\repos\SMAReportCleaner\DiffPlex\obj\Debug\DiffPlex.pdb
